@@ -1,0 +1,23 @@
+{
+  "name": "guest-data",
+  "version": "1.0.0",
+  "description": "Guest-Data",
+  "homepage": "https://github.com/shehanWeerasekara/Guest-Data#readme",
+  "bugs": {
+    "url": "https://github.com/shehanWeerasekara/Guest-Data/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehanWeerasekara/Guest-Data.git"
+  },
+  "license": "ISC",
+  "author": "Shehan Tharindu",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
