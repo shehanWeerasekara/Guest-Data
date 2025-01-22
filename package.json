@@ -15,9 +15,13 @@
   "type": "commonjs",
   "main": "App.js",
   "scripts": {
-    "dev": "nodemon App.js"
+    "dev": "nodemon App.js",
+    "start": "node App.js"
   },
   "dependencies": {
     "chalk": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
